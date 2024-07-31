@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/login">
+        <file>login1.jpeg</file>
+    </qresource>
+    <qresource prefix="/mainmenu">
+        <file>main.jpeg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
